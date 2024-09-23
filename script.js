@@ -5,7 +5,7 @@ yesBtn.addEventListener("click", () => {
   window.location.href = "./yes.html"
 });
 
-noBtn.addEventListener("click", () => {
+noBtn.addEventListener("mouseover", () => {
   moveNoButton()
 });
 
